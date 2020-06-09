@@ -8,8 +8,8 @@ Projects involved:
 
 	1. Cache optimization, Intel Intrinsics
 	2. OpenMP
-	3. MPI; OpenMPI, mvapich
-	4. interfacing C/C++ code with MATLAB and Python
+	3. MPI; OpenMPI
+	4. MATLAB
 	5. Partial Differential Equations, Finite Differences
 	6. Distributed PageRank computations
 	7. Spectral Graph Theory
@@ -17,3 +17,5 @@ Projects involved:
 	9. PETSc and Trilinos
 	10. PDE-constrained optimization
 	11. operating in supercomputing environments
+	12. eBPF: perf and other diagnostics
+	13. performance-oriented Python
